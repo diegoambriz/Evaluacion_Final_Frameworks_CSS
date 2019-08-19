@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+.logo-img {
+    width: 100px;
+    float: left;
+}
+
+.logo-ico {
+    float: right;
+    height: 33%;
+    margin: 3px;
+}
+
+.col-media {
+    height: 50%;
+}
+
+.barra-nav {
+    background-color: ghostwhite;
+    text-align: center;
+    font-family: 'New Rocker', cursive;
+}
+
+.contenido {
+    background-color: lightgray;
+    text-align: justify;
+    font-family: 'New Rocker', cursive;
+}
+
+.buscador {
+    background-color: lightgray;
+    text-align: center;
+    font-family: 'New Rocker', cursive;
+}
+
+.img-content {
+    margin-top: 7%;
+}

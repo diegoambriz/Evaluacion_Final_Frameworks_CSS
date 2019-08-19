@@ -1,0 +1,19 @@
+body {
+  background-image: url("../img/bg1.jpg");
+  background-attachment: fixed;
+  background-repeat: round;
+  color: ghostwhite;
+}
+
+.superior,
+.principal {
+  background-color: hsla(34, 100%, 53%, 0.7);
+}
+
+.menu li {
+  border: 1px solid palevioletred;
+}
+
+.Favoritos img {
+  margin-top: 10px;
+}
